@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5de06ce023121b49b4278dc2d76a850, type: 3}
+  m_Name: Knife Skin 5
+  m_EditorClassIdentifier: 
+  _id: 4
+  _skin: {fileID: -1324306268615428926, guid: 9797675f98978a44e9b530ef47fed648, type: 3}
+  _isBuyied: 0
